@@ -5,7 +5,7 @@ O intuito desse software é para empresas de restaurante ou de atendimento ao cl
 
 Será usado Google APIs Contacts como database para simplificar a atualização momentanea dos dados dos atuais ou novos clientes com o smartphone.
 
-Como ainda existem muitos restaurantes que necessitam ter um atendimento ao cliente, pelo fato de uma boa parte dos clientes ainda pedirem o alimento por ligação telefonica ou mensagem de texto, em vez de autoatendimento em sites. Esse software atinge essas necessidades.
+Como ainda existem muitos restaurantes que necessitam ter um atendimento ao cliente, pelo fato de uma boa parte dos clientes ainda pedirem o alimento por ligação telefonica ou mensagem de texto, em vez de autoatendimento em sites. Esse software atinge essa necessidade das empresas agilizarem esse tipo de atendimento.
 # Funcionalidades do Software
 Poderá adicionar, alterar e acessar os contatos da sua conta google por nesse programa, adquirindo também o contato da ligação de um atual ou novo cliente do celular diretamente para o programa.
 
